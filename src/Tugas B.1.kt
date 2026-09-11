@@ -1,4 +1,5 @@
 fun main() {
+    println("Tugas B.1 Penggunaan val dan var")
     val nama: String = "Budi Santoso"
     val npm: String = "21081010001"
     var semester: Int = 3
